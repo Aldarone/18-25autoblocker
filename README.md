@@ -1,3 +1,9 @@
+# 18 - 25 AutoBlocker
+
+Script permettant de créer une blocklist twitter à partir des comptes du 18-25. Lisez la suite du README original pour voir comment ça fonctionne.
+
+---
+
 # Good Game Auto Blocker
 
 Please see http://blog.randi.io/good-game-auto-blocker/ for a more updated version of this README.
